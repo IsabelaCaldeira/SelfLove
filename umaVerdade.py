@@ -1,5 +1,5 @@
 voceAguentouAteAqui = True
 
 if voceAguentouAteAqui == True:
-    print("Você consegue qualquer coisa")
+    print("Você consegue passar por isso")
     
