@@ -21,7 +21,7 @@ answer = ''
 
 
 
-random_number = random.randint(1, 10)
+random_number = random.randint(1, 11)
 
 
 if random_number == 1:
@@ -44,6 +44,8 @@ elif random_number == 9:
   answer = '“Your competition is with yourself.”.'
 elif random_number == 10:
   answer = '"Your best is enough"'
+elif random_number == 10:
+  answer = '"Do it for yourself"'
 else:
   answer = "Error"
 
