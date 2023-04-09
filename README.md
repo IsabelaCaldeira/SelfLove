@@ -4,7 +4,7 @@
 </div>
 
 
-## Show love and upload code!
+## Show < love > and upload code! :blue_heart: 
 **Fork this repository**
 
 ```bash
