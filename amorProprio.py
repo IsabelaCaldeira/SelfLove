@@ -1,4 +1,4 @@
 def foo(value):
-    print(f"Leia uma verdade aqui: {value}")
+    print(f"Read some true: {value}")
 
-foo("Você é um ser humano lindo")
+foo("You are a gorgeous humain being")
