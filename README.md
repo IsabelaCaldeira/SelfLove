@@ -1,4 +1,7 @@
 <h3 align="center">Sprending positivy through code</h3>
+<div id: "emoji" align= "center">
+:woman_technologist: :blue_heart: :man_technologist: 
+</div>
 
 <h4 align=center> You can also be part of</br>
 Just upload your code</h4> 
@@ -21,7 +24,5 @@ $ git push origin my-branch
 ```
 
 After your pull request is merged, you can delete your branch.
-<div id: "emoji" align= "center">
-:woman_technologist: :blue_heart: :man_technologist: 
-</div>
+
 
