@@ -1,9 +1,9 @@
 <h3 align="center">Sprending positivy through code</h3>
 
-<h4 align=center> Você também pode fazer parte</br>
-Suba seu código para cá</h4> 
+<h4 align=center> You can also be part of</br>
+Just upload your code</h4> 
 
-## :thinking: You can also be part of, Just upload your code!
+## Here is how!
 **Fork this repository**
 
 ```bash
