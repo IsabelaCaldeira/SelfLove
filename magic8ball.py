@@ -6,15 +6,15 @@
 import random
 
 
-print('Seja bem-vindx a Bola Mágica da Virtude!')
+print('Welcome to the 8 Magic ball!!')
 
 
-name = input('Qual o seu nome? ')
+name = input("What's your name?")
 
 if name == '':
-  print('Queremos te dizer que:')
+  print('We wanna tell you that:')
 else:
-  print('Muito bem,', name, '! Hoje queremos te dizer que: ')
+  print('Well done,', name, '! Today we wanna tell you that: ')
 
 answer = ''
 
@@ -25,23 +25,23 @@ random_number = random.randint(1, 9)
 
 
 if random_number == 1:
-  answer = '"O êxito é ir de frustração a frustração sem perder a animação".'
+  answer = '"Success is going from frustration to frustration without losing the enthusiasm.".'
 elif random_number == 2:
-  answer = '"A maior prova de que você pode fazer o impossível, é superar circunstâncias difíceis".'
+  answer = '"The greatest proof that you can do the impossible".'
 elif random_number == 3:
-  answer = '“Que os dias bons se tornem rotina, e os ruins se tornem raros”.'
+  answer = '“May the good days become routine and the bad ones rare.”.'
 elif random_number == 4:
-  answer = '“Mesmo que nem todo dia seja bom, há algo de bom todo dia”.'
+  answer = '“Even if not every day is a good day, there is always something good in every day.”.'
 elif random_number == 5:
-  answer = '“Da mesma forma que a felicidade não dura para sempre, a tristeza também não”.'
+  answer = '“Just as happiness does not last forever, neither does sadness".'
 elif random_number == 6:
-  answer = '“As dores não são eternas, se permita, o seu melhor é o suficiente”.'
+  answer = '“Pain is not eternal, if you allow it, your best is enough”.'
 elif random_number == 7:
-  answer = '“Você não chegou até aqui por acaso, para tudo existe uma razão. Continue em frente”.'
+  answer = '“You did not come this far by chance for everything there is a reason. Keep going”.'
 elif random_number == 8:
-  answer = '“Permita-se começar e recomeçar quantas vezes forem necessárias”.'
+  answer = '“Allow yourself to start and start over as many times as necessary.”.'
 elif random_number == 9:
-  answer = '“A sua competição é com você mesmo”.'
+  answer = '“Your competition is with yourself.”.'
 else:
   answer = "Error"
 
