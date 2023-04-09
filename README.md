@@ -3,10 +3,8 @@
 :woman_technologist: :blue_heart: :man_technologist: 
 </div>
 
-<h4 align=center> You can also be part of</br>
-Just upload your code</h4> 
 
-## Here is how!
+## Show love and upload code!
 **Fork this repository**
 
 ```bash
