@@ -21,6 +21,5 @@ $ git commit -m 'feature my changes'
 $ git push origin my-branch
 ```
 
-After your pull request is merged, you can delete your branch.
 
 
