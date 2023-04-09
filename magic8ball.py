@@ -1,6 +1,6 @@
 #Esta é uma adaptação da Magic 8-Ball, um famoso brinquedo americano da década de 50.
 #No jogo original, faz-se uma pergunta para a bola e ela retorna uma das oito respostas possíveis
-#Aqui, em cada execução é exibida uma das oito frases motivacionais possíveis
+#Aqui, em cada execução é exibida uma frases motivacionais possíveis
 
 
 import random
@@ -39,7 +39,7 @@ elif random_number == 6:
 elif random_number == 7:
   answer = '“You did not come this far by chance for everything there is a reason. Keep going”.'
 elif random_number == 8:
-  answer = '“Allow yourself to start and start over as many times as necessary.”.'
+  answer = '“Allow yourself to start new and start over as many times as necessary.”.'
 elif random_number == 9:
   answer = '“Your competition is with yourself.”.'
 elif random_number == 10:
