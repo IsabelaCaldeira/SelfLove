@@ -1,6 +1,7 @@
-#Esta é uma adaptação da Magic 8-Ball, um famoso brinquedo americano da década de 50.
-#No jogo original, faz-se uma pergunta para a bola e ela retorna uma das oito respostas possíveis
-#Aqui, em cada execução é exibida uma frases motivacionais possíveis
+#This game is an adapation of the famous Magic 8-Ball, a famous toy from the 50s 
+#In the original game, you make questions to the ballfaz-se uma pergunta para a bola and it return with eight possibles answers
+#Here, in each execuation it is shown a motivational phrase
+#Enjoy <3
 
 
 import random
