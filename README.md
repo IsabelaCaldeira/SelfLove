@@ -4,7 +4,7 @@
 </div>
 
 
-## Show < love > and upload your code! :blue_heart: 
+## Show < love > with code = { 
 **Fork this repository**
 
 ```bash
@@ -20,6 +20,6 @@ $ git commit -m 'feature my changes'
 # Push to your branch
 $ git push origin my-branch
 ```
-
+}
 
 
