@@ -1,4 +1,4 @@
-print('Você conseguiu chegar até aqui?')
+print('Were you able to get here?')
 
 
 resposta = input('')
@@ -6,5 +6,5 @@ resposta = input('')
 if resposta != '':
     voceAguentouAteAqui = True
     if voceAguentouAteAqui == True:
-        print("Você consegue chegar em qualquer lugar")
+        print("Then you can get anywhere and do anything")
     
