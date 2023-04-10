@@ -1,10 +1,10 @@
-<h3 align="center">Sprending < positivy >  through code</h3>
+<h3 align="center">Sprending positivy through code</h3>
 <div id: "emoji" align= "center">
 :woman_technologist: :blue_heart: :man_technologist: 
 </div>
 
 
-## Show < love > and upload your code! :blue_heart: 
+## Show < love > with code = { 
 **Fork this repository**
 
 ```bash
@@ -20,6 +20,6 @@ $ git commit -m 'feature my changes'
 # Push to your branch
 $ git push origin my-branch
 ```
-
+}
 
 
