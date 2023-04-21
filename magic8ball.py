@@ -22,7 +22,7 @@ answer = ''
 
 
 
-random_number = random.randint(1, 11)
+random_number = random.randint(1, 12)
 
 
 if random_number == 1:
