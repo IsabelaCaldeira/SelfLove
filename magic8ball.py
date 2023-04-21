@@ -47,6 +47,8 @@ elif random_number == 10:
   answer = '"Your best is enough"'
 elif random_number == 10:
   answer = '"Do it for yourself"'
+elif random_number == 11:
+  answer = '"I know it is hard but I belive in you"'
 else:
   answer = "Error"
 
