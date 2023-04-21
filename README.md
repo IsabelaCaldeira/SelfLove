@@ -4,7 +4,7 @@
 </div>
 
 
-## Show < love > and your code = { 
+## Show < love > and upload your code = { 
 **Fork this repository**
 
 ```bash
