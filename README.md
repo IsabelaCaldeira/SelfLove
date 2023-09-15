@@ -1,4 +1,4 @@
-<h3 align="center">Sprending positivy through code</h3>
+<h3 align="center">Sprending positivity through code</h3>
 <div id: "emoji" align= "center">
 :woman_technologist: :blue_heart: :man_technologist: 
 </div>
