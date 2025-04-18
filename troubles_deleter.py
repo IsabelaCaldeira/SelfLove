@@ -44,6 +44,8 @@ last = None
 txt = ''
 while True:
     last = getch()
+    if isinstance(last, bytes):
+        last = last.decode('utf-8')
     if last != '\r':
         txt += last
         print(last, end='', flush=True)
